@@ -24,3 +24,7 @@ button {
     width: 80px;
 }
 
+li{
+    list-style-type: none;
+}
+
